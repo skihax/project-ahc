@@ -1,0 +1,22 @@
+{
+  "name": "project-ahc",
+  "version": "1.0.0",
+  "description": "something to do with smart home automatic controls idk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skihax/project-ahc.git"
+  },
+  "keywords": [
+    "smarthome"
+  ],
+  "author": "zach skaistis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skihax/project-ahc/issues"
+  },
+  "homepage": "https://github.com/skihax/project-ahc#readme"
+}
